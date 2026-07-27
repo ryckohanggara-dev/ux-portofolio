@@ -29,4 +29,4 @@ This portfolio documents my journey learning UX design through the Google UX Des
 
 ## Contact
 - GitHub: [github.com/ryckohanggara-dev](https://github.com/ryckohanggara-dev)
-- LinkedIn: [linkedin.com/in/rycko-hanggara](https://linkedin.com/in/rycko-hanggara)
+- LinkedIn: [linkedin.com/in/rycko](https://linkedin.com/in/rycko)
